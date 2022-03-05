@@ -405,7 +405,7 @@ I couldnt solve it. I have posted my code [here](https://github.com/Akshaj000/am
 <br/>
 <p style="text-align:left;">
 <a href="/AmfossPreveshan/2021/09/25/hello-world/index.html" >< Previous</a>
-<span style="float:right;"><a href="/2021/09/27/mars/index.html" >Next ></a>
+<span style="float:right;"><a href="/AmfossPreveshan/2021/09/27/mars/index.html" >Next ></a>
 </span>
 </p>
 
